@@ -1,0 +1,48 @@
+Assignment Questions 
+1. Who developed Python Programming Language?
+	Guido van Rossum 
+2. Which type of Programming does Python support?
+	 Object-oriented programming and structured programming
+3. Is Python case sensitive when dealing with identifiers? 
+	yes
+4. What is the correct extension of the Python file? 
+	.py
+5. Is Python code compiled or interpreted? 
+	interpreted
+6. Name a few blocks of code used to define in Python language? 
+	if, for, while
+7. State a character used to give single-line comments in Python? 
+	'#' 
+8. Mention functions which can help us to find the version of python that we are currently working on? 
+	sys.version
+9. Python supports the creation of anonymous functions at runtime, using a construct called 
+	"lambda"
+10. What does pip stand for python?
+	 "preferred installer program"
+11. Mention a few built-in functions in python? 
+	list, set, upper, lenmgth, type
+12. What is the maximum possible length of an identifier in Python? 
+	79
+13. What are the benefits of using Python? 
+	Language have heavy library collection.
+	it is faster.
+	
+14. How is memory managed in Python? 
+	Memory management in Python involves a private heap containing all Python objects and data structures. The management of this private heap is ensured internally by the Python memory manager.
+15. How to install Python on Windows and set path variables? 
+	download from python.org. in starting their is option for set path> check it
+16. Is indentation required in python?
+	yes
+
+
+
+
+
+
+
+
+
+
+
+
+ 
